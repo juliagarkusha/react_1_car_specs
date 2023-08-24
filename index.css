@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+tr.row__brand {
+    background-color: #f2f2f2;
+}
+
+td {
+    padding: 8px;
+    border: 1px solid #ddd;
+}
+
+tr.cell__model {
+    font-weight: bold;
+    background-color: #e0e0e0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
